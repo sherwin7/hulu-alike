@@ -8,7 +8,7 @@ export default function Home({ results }) {
   return (
     <div>
       <Head>
-        <title>Hulu Clone</title>
+        <title>Hulu Alike</title>
         <meta name="description" content="A streaming platform" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
